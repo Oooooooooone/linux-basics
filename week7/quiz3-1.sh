@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ -e "directory.sh" ] 
+if [ -e "quiz2-1.sh" ] 
 then 
  echo "파일이 존재합니다."
 else
